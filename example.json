@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "quran_words": 77430,
+    "unique_roots": 1726,
+    "transliteration_system": "Buckwalter"
+  },
+  "roots": {
+    "رحم": {
+      "root_transliteration": "r-ḥ-m",
+      "base_meaning": {
+        "en": "mercy/compassion",
+        "ur": "رحم / شفقت"
+      },
+      "total_occurrences": 339,
+      "occurrence_details": [
+        {
+          "surah": 1,
+          "ayah": 1,
+          "form": "الرَّحْمَٰنِ",
+          "transliteration": "ar-Raḥmāni",
+          "grammar": "active participle (intensive form), genitive",
+          "meaning": {
+            "en": "The Most Gracious",
+            "ur": "نہایت مہربان"
+          },
+          "context": "ayat in which word is used"
+        }
+      ],
+      "morphological_variants": [
+        {
+          "form": "رَحْمَةً",
+          "transliteration": "raḥmatan",
+          "grammar": "noun, accusative",
+          "meaning": {"en": "mercy", "ur": "رحمت"},
+          "occurrences": 79,
+          "prefix": "",
+          "suffix": "ً"
+        },
+        {
+          "form": "يَرْحَمُ",
+          "transliteration": "yarḥamu",
+          "grammar": "imperfect verb, 3rd masc. singular",
+          "meaning": {"en": "he shows mercy", "ur": "وہ رحم کرتا ہے"},
+          "occurrences": 12,
+          "prefix": "يَ",
+          "suffix": "ُ"
+        }
+      ]
+    },
+    "علم": {
+      "root_transliteration": "ʿ-l-m",
+      "base_meaning": {
+        "en": "knowledge",
+        "ur": "علم / جاننا"
+      },
+      "total_occurrences": 854,
+      "occurrence_details": [
+        {
+          "surah": 2,
+          "ayah": 32,
+          "form": "نَعْلَمُ",
+          "transliteration": "na'lamu",
+          "grammar": "imperfect verb, 1st plural",
+          "meaning": {
+            "en": "we know",
+            "ur": "ہم جانتے ہیں"
+          },
+          "context": "ayat in which word is used"
+        }
+      ],
+      "morphological_variants": [
+        {
+          "form": "عِلْمٍ",
+          "transliteration": "ʿilmin",
+          "grammar": "noun, genitive",
+          "meaning": {"en": "knowledge", "ur": "علم"},
+          "occurrences": 105,
+          "prefix": "",
+          "suffix": "ٍ"
+        }
+      ]
+    }
+  }
+}
